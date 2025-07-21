@@ -52,9 +52,9 @@ A little Chrome extension for extracting some text (from HTML elements) on the c
 ## File Structure:
 
 ext_text_extractor/
-├── manifest.json # Chrome extension metadata & permissions
-├── popup.html # User interface for the popup
-└── popup.js # Logic to extract and display page text
+<p>├── manifest.json # Chrome extension metadata & permissions</p>
+<p>├── popup.html # User interface for the popup</p>
+<p>└── popup.js # Logic to extract and display page text</p>
 
 - manifest.json = declares permissions and scripts
 
