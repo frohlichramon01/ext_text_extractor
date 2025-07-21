@@ -47,7 +47,7 @@ A little Chrome extension for extracting some text (from HTML elements) on the c
 
 ### Example:
 
-![Example Video] (https://github.com/frohlichramon01/ext_text_extractor/other/Get-text-extractor.gif)
+![Example Video](https://github.com/frohlichramon01/ext_text_extractor/other/Get-text-extractor.gif)
 
 ## File Structure:
 
