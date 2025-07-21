@@ -46,8 +46,7 @@ A little Chrome extension for extracting some text (from HTML elements) on the c
 5. Copy the text to your clipboard or edit as needed.
 
 ### Example:
-
-![Example Video](https://github.com/frohlichramon01/ext_text_extractor/other/Get-text-extractor.gif)
+![Gif-text-extractor](https://github.com/user-attachments/assets/75c85779-3993-4edb-9758-adeec6da69ec)
 
 ## File Structure:
 
