@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Text extractor",
+    "version": "1.0",
+    "description": "Extract text from page.",
+    "permissions": ["scripting", "activeTab", "clipboardWrite"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "host_permissions": ["<all_urls>"]
+  }
